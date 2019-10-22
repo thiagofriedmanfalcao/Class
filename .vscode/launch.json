@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ComparaString",
+            "request": "launch",
+            "mainClass": "ComparaString"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CriarCarro",
+            "request": "launch",
+            "mainClass": "CriarCarro"
+        }
+    ]
+}
